@@ -3,4 +3,5 @@ usr/bin/vbltest
 usr/bin/kms-steal-crtc
 usr/bin/modeprint
 usr/bin/kms-universal-planes
+usr/bin/kmstest
 usr/bin/proptest
